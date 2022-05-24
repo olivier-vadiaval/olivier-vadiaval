@@ -3,4 +3,8 @@
 - 😁 I'm Olivier
 - 🔭🏫 Recent Graduate @ualberta
 - 🧐📚 Passionate about Data Analytics and Data Science
-- 📫 Contact me: vadiaval@ualberta.ca
+- 📫 Contact: vadiaval@ualberta.ca
+- 🔗 Links:  
+    - https://www.linkedin.com/in/olivier-vadiavaloo
+    - https://public.tableau.com/app/profile/olivier.vadiaval
+    - https://www.kaggle.com/oliviervadiavaloo
