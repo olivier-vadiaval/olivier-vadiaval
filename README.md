@@ -23,11 +23,11 @@
 ![image](https://user-images.githubusercontent.com/59672031/170327165-0c6f054f-0bd6-4a08-9cca-1af580a68691.png)
   
 ___
-### [malenia-DB-T-SQL](https://github.com/olivier-vadiaval/malenia-DB-T-SQL)
-- A fun project where I analyzed and created a dashboard from data about player deaths to Elden Ring's boss Malenia.
-- __Technologies:__ Excel, T-SQL, Power BI
-
-![image](https://user-images.githubusercontent.com/59672031/170328056-496a1242-53b2-46e1-a33a-0d733f0e705e.png)
+### [indeed-webscraping](https://github.com/olivier-vadiaval/indeed-webscraping)
+- Scraped data from Data Analyst jobs located in Alberta from Indeed.
+- __Technologies:__ Python, Selenium, BeautifulSoup4, NLTK, Jupyter Notebooks
+  
+![image](https://user-images.githubusercontent.com/59672031/173158483-d7382d85-7c47-43fc-8784-62b820327028.png)
   
 ___
 ### [bikesales-Queries](https://github.com/olivier-vadiaval/bikesales-Queries)
@@ -36,6 +36,13 @@ ___
   
 ![image](https://user-images.githubusercontent.com/59672031/170328973-72297f70-d93b-473d-b286-99e9e4d510f7.png)
   
+___
+### [malenia-DB-T-SQL](https://github.com/olivier-vadiaval/malenia-DB-T-SQL)
+- A fun project where I analyzed and created a dashboard from data about player deaths to Elden Ring's boss Malenia.
+- __Technologies:__ Excel, T-SQL, Power BI
+
+![image](https://user-images.githubusercontent.com/59672031/170328056-496a1242-53b2-46e1-a33a-0d733f0e705e.png)
+    
 ___
 ### [social-distribution](https://github.com/olivier-vadiaval/social-distribution)
 - A web app that allows users to create and share posts. Built an API to allow P2P connections with other hosts.
