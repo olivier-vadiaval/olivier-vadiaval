@@ -23,6 +23,13 @@
 ![image](https://user-images.githubusercontent.com/59672031/170327165-0c6f054f-0bd6-4a08-9cca-1af580a68691.png)
   
 ___
+### [covid19-viz](https://public.tableau.com/app/profile/olivier.vadiaval/viz/COVID19Dashboard_16531831021020/COVID19Dashboard)
+- Created a Tableau Viz from COVID-19 data.
+- __Technologies:__ Tableau
+  
+![image](https://user-images.githubusercontent.com/59672031/173209028-f132cdbe-2285-4c9b-8c3d-f0d70a42015d.png)
+  
+___
 ### [indeed-webscraping](https://github.com/olivier-vadiaval/indeed-webscraping)
 - Scraped data from Data Analyst jobs located in Alberta from Indeed.
 - __Technologies:__ Python, Selenium, BeautifulSoup4, NLTK, Jupyter Notebooks
@@ -42,7 +49,21 @@ ___
 - __Technologies:__ Excel, T-SQL, Power BI
 
 ![image](https://user-images.githubusercontent.com/59672031/170328056-496a1242-53b2-46e1-a33a-0d733f0e705e.png)
-    
+  
+___
+### [video-game-sales](https://github.com/olivier-vadiaval/video-game-sales)
+- Analysis of video game sales data from Kaggle
+- __Technologies:__ Excel, T-SQL, Power BI
+  
+![image](https://user-images.githubusercontent.com/59672031/173208980-12b8c0f2-2c25-482d-a49b-cf96ad238944.png)
+  
+___
+### [Spotify-viz](https://public.tableau.com/app/profile/olivier.vadiaval/viz/SpotifyDashboard_16533472407880/SpotifyTopTracksDashboard)
+- Created a Tableau Viz from Spotify&apos;s Top tracks data from 2010-2019.
+- __Technologies:__ Tableau
+  
+![image](https://user-images.githubusercontent.com/59672031/173209085-3d0d51ea-7dcc-4655-bbf4-8a11e0221081.png)
+  
 ___
 ### [social-distribution](https://github.com/olivier-vadiaval/social-distribution)
 - A web app that allows users to create and share posts. Built an API to allow P2P connections with other hosts.
