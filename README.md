@@ -23,18 +23,18 @@
 ![image](https://user-images.githubusercontent.com/59672031/170327165-0c6f054f-0bd6-4a08-9cca-1af580a68691.png)
   
 ___
-### [covid19-viz](https://public.tableau.com/app/profile/olivier.vadiaval/viz/COVID19Dashboard_16531831021020/COVID19Dashboard)
-- Created a Tableau Viz from COVID-19 data.
-- __Technologies:__ Tableau
-  
-![image](https://user-images.githubusercontent.com/59672031/173209028-f132cdbe-2285-4c9b-8c3d-f0d70a42015d.png)
-  
-___
 ### [indeed-webscraping](https://github.com/olivier-vadiaval/indeed-webscraping)
 - Scraped data from Data Analyst jobs located in Alberta from Indeed.
 - __Technologies:__ Python, Selenium, BeautifulSoup4, NLTK, Jupyter Notebooks
   
 ![image](https://user-images.githubusercontent.com/59672031/173158483-d7382d85-7c47-43fc-8784-62b820327028.png)
+  
+___
+### [covid19-viz](https://public.tableau.com/app/profile/olivier.vadiaval/viz/COVID19Dashboard_16531831021020/COVID19Dashboard)
+- Created a Tableau Viz from COVID-19 data.
+- __Technologies:__ Tableau
+  
+![image](https://user-images.githubusercontent.com/59672031/173209028-f132cdbe-2285-4c9b-8c3d-f0d70a42015d.png)
   
 ___
 ### [bikesales-Queries](https://github.com/olivier-vadiaval/bikesales-Queries)
