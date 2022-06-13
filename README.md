@@ -20,7 +20,7 @@
   
 ![image](https://user-images.githubusercontent.com/59672031/173282053-70e69df7-4efb-413a-8662-786169040e69.png)
   
-
+___
 ## Projects
 
 ### [co2-emission-T-SQL](https://github.com/olivier-vadiaval/co2-emission-T-SQL)
