@@ -8,11 +8,18 @@
     - LinkedIn: https://www.linkedin.com/in/olivier-vadiavaloo
     - Tableau: https://public.tableau.com/app/profile/olivier.vadiaval
     - Kaggle: https://www.kaggle.com/oliviervadiavaloo
+    - Portfolio: https://www.olivier-vadiaval.github.io
 - Fun facts:
     - Almost __20 percent__ of the total technology budget is being spent on data analytics by __73 percent__ of companies.
     - __15 million dollars__ a year is the financial loss organizations suffer due to poor quality of data.
     - For a Fortune 1000 enterprise, only a __10 percent increase__ in the accessibility of data will lead to net additional revenue of __65 million dollars__.  
 (source: https://www.simplilearn.com/data-science-facts-article)
+  
+## Check out my new portfolio website ✨✨
+[Olivier's Portfolio](https://www.olivier-vadiaval.github.io)
+  
+![image](https://user-images.githubusercontent.com/59672031/173282053-70e69df7-4efb-413a-8662-786169040e69.png)
+  
 
 ## Projects
 
