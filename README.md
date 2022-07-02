@@ -2,7 +2,7 @@
 
 - 😁 I'm ___Olivier___
 - 🔭🏫 Recent Graduate @ualberta
-- 🧐📚 Passionate about Data Analytics, Data Science and Data Engineering.
+- 🧐📚 Passionate about Data.
 - 📫 Contact: vadiaval@ualberta.ca
 - 🔗 Links:  
     - LinkedIn: https://www.linkedin.com/in/olivier-vadiavaloo
