@@ -2,7 +2,7 @@
 
 - 😁 I'm ___Olivier___
 - 🔭🏫 Recent Graduate @ualberta
-- 🧐📚 Passionate about Data.
+- 🧐📚 Passionate about software development, data engineering and analytics.
 - 📫 Contact: vadiaval@ualberta.ca
 - 🔗 Links:  
     - LinkedIn: https://www.linkedin.com/in/olivier-vadiavaloo
@@ -21,7 +21,21 @@
   
 ___
 ## Projects
-
+  
+### [social-distribution](https://github.com/olivier-vadiaval/social-distribution)
+- A web app that allows users to create and share posts. Built an API to allow P2P connections with other hosts.
+- __Technologies:__ Python, Heroku, Django, Bootstrap
+  
+[![image](https://user-images.githubusercontent.com/59672031/170329695-a5c3c98d-1f5d-404d-9bd5-323640dcf098.png)](https://youtu.be/MoULLQmtl0M)
+  
+___
+### [PyGames-synthesis](https://github.com/olivier-vadiaval/PyGames-synthesis)
+- A synthesizer to generate programmatic strategies written in a domain-specific language for three Arcade games: __Pong, Catcher and Flappy Bird__.
+- __Technologies:__ Python, Pygame
+  
+[![image](https://user-images.githubusercontent.com/59672031/170330735-103ba805-8673-47ae-ac60-6a36ea44973e.png)](https://github.com/olivier-vadiaval/PyGames-synthesis/blob/main/report_summer2021.pdf)
+  
+___
 ### [co2-emission-T-SQL](https://github.com/olivier-vadiaval/co2-emission-T-SQL)
 - Analyzed and created a dashboard using data about CO2 and greenhouse gas emission in the past ~300 years.
 - __Technologies:__ Excel, T-SQL, Power BI
@@ -70,16 +84,3 @@ ___
   
 [![image](https://user-images.githubusercontent.com/59672031/173209085-3d0d51ea-7dcc-4655-bbf4-8a11e0221081.png)](https://public.tableau.com/app/profile/olivier.vadiaval/viz/SpotifyDashboard_16533472407880/SpotifyTopTracksDashboard)
   
-___
-### [social-distribution](https://github.com/olivier-vadiaval/social-distribution)
-- A web app that allows users to create and share posts. Built an API to allow P2P connections with other hosts.
-- __Technologies:__ Python, Heroku, Django, Bootstrap
-  
-[![image](https://user-images.githubusercontent.com/59672031/170329695-a5c3c98d-1f5d-404d-9bd5-323640dcf098.png)](https://youtu.be/MoULLQmtl0M)
-  
-___
-### [PyGames-synthesis](https://github.com/olivier-vadiaval/PyGames-synthesis)
-- A synthesizer to generate programmatic strategies written in a domain-specific language for three Arcade games: __Pong, Catcher and Flappy Bird__.
-- __Technologies:__ Python, Pygame
-  
-[![image](https://user-images.githubusercontent.com/59672031/170330735-103ba805-8673-47ae-ac60-6a36ea44973e.png)](https://github.com/olivier-vadiaval/PyGames-synthesis/blob/main/report_summer2021.pdf)
