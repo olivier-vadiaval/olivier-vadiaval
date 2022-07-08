@@ -17,7 +17,7 @@
   
 ## Check out [my new portfolio website](https://olivier-vadiaval.github.io/) ✨✨
   
-[![image](https://user-images.githubusercontent.com/59672031/173282053-70e69df7-4efb-413a-8662-786169040e69.png)](https://olivier-vadiaval.github.io)
+![image](https://user-images.githubusercontent.com/59672031/178035424-bd1daf22-d05a-414d-8f33-b92c5c1bedfd.png)
   
 ___
 ## Projects
