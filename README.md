@@ -15,10 +15,6 @@
     - For a Fortune 1000 enterprise, only a __10 percent increase__ in the accessibility of data will lead to net additional revenue of __65 million dollars__.  
 (source: https://www.simplilearn.com/data-science-facts-article)
   
-## Check out [my new portfolio website](https://olivier-vadiaval.github.io/) ✨✨
-  
-![image](https://user-images.githubusercontent.com/59672031/178035424-bd1daf22-d05a-414d-8f33-b92c5c1bedfd.png)
-  
 ___
 ## Projects
   
